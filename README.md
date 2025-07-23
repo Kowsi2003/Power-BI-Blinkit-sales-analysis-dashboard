@@ -6,7 +6,7 @@ This Power BI project visualizes and analyzes the **Grocery Sales performance** 
 
 ## 🚀 Live Power BI Dashboard
 
-📊 [**Click to view the interactive Power BI Dashboard**](#)
+📊 [**Click to view the interactive Power BI Dashboard**](https://app.powerbi.com/links/IfYXKpt1VB?ctid=deb1b7b3-b2e4-49f8-b031-9a339ea9839c&pbi_source=linkShare&bookmarkGuid=590999f3-063c-44ef-b71b-e8a784b18641)
 
 ---
 
