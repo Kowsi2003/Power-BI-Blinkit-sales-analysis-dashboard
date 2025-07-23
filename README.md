@@ -18,7 +18,7 @@ The dataset contains **8524 records** of grocery items sold across different sto
 * Sales metrics (Sales amount, Rating)
 * Store characteristics (Outlet Type, Size, Location Tier, Establishment Year)
 
-📥 [**Download Dataset**](https://github.com/your-username/blinkit-grocery-analysis/raw/main/BlinkIT%20Grocery%20Data.xlsx)
+📥 [**Download Dataset**]([https://github.com/your-username/blinkit-grocery-analysis/raw/main/BlinkIT%20Grocery%20Data.xlsx](https://github.com/Kowsi2003/Power-BI-Blinkit-sales-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx))
 
 ---
 
