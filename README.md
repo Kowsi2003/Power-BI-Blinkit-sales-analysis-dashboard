@@ -43,11 +43,11 @@ The dataset contains **8524 records** of grocery items sold across different sto
 
 ### 📊 Dashboard Preview
 
-![Dashboard Preview - Partial](BlinkitDashboard.png)
+![Dashboard Preview - Partial](Blinkit_Dashboard.png)
 
 ### 📊 Dashboard Filtered Preview
 
-![Dashboard Preview - Full](Filteredview.png)
+![Dashboard Preview - Full](Filtered_view.png)
 
 ---
 
